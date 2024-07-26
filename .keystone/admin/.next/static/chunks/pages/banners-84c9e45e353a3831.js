@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7171],{83737:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/banners",function(){return _(85689)}])},85689:function(n,u,_){"use strict";_.r(u);var e=_(7924);u.default=(0,e.d)({listKey:"Banner"})}},function(n){n.O(0,[7924,9774,2888,179],function(){return n(n.s=83737)}),_N_E=n.O()}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1119],{51926:function(n,u,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/videos/[id]",function(){return i(58498)}])},58498:function(n,u,i){"use strict";i.r(u);var _=i(21086);u.default=(0,_.p)({listKey:"Video"})}},function(n){n.O(0,[1086,9774,2888,179],function(){return n(n.s=51926)}),_N_E=n.O()}]);

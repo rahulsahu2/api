@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5541],{63381:function(n,u,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/configs/[id]",function(){return i(8376)}])},8376:function(n,u,i){"use strict";i.r(u);var _=i(21086);u.default=(0,_.p)({listKey:"Config"})}},function(n){n.O(0,[1086,9774,2888,179],function(){return n(n.s=63381)}),_N_E=n.O()}]);

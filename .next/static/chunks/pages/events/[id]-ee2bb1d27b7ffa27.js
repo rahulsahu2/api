@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9032],{24486:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/events/[id]",function(){return u(74703)}])},74703:function(n,t,u){"use strict";u.r(t);var e=u(21086);t.default=(0,e.p)({listKey:"Event"})}},function(n){n.O(0,[1086,9774,2888,179],function(){return n(n.s=24486)}),_N_E=n.O()}]);

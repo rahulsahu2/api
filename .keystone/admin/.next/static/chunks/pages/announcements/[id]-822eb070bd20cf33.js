@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3800],{81085:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/announcements/[id]",function(){return e(37950)}])},37950:function(n,u,e){"use strict";e.r(u);var t=e(21086);u.default=(0,t.p)({listKey:"Announcement"})}},function(n){n.O(0,[1086,9774,2888,179],function(){return n(n.s=81085)}),_N_E=n.O()}]);

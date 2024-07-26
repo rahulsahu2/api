@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3197],{422:function(n,t,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/certificates/[id]",function(){return i(77160)}])},77160:function(n,t,i){"use strict";i.r(t);var e=i(21086);t.default=(0,e.p)({listKey:"Certificate"})}},function(n){n.O(0,[1086,9774,2888,179],function(){return n(n.s=422)}),_N_E=n.O()}]);

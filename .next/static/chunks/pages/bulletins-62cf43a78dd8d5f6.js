@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3689],{51763:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/bulletins",function(){return t(17830)}])},17830:function(n,u,t){"use strict";t.r(u);var _=t(7924);u.default=(0,_.d)({listKey:"Bulletin"})}},function(n){n.O(0,[7924,9774,2888,179],function(){return n(n.s=51763)}),_N_E=n.O()}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1892],{47149:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/plans",function(){return _(77317)}])},77317:function(n,u,_){"use strict";_.r(u);var t=_(7924);u.default=(0,t.d)({listKey:"Plan"})}},function(n){n.O(0,[7924,9774,2888,179],function(){return n(n.s=47149)}),_N_E=n.O()}]);

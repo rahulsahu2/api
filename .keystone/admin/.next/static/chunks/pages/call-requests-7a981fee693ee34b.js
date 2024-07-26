@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7651],{3388:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/call-requests",function(){return e(17398)}])},17398:function(n,u,e){"use strict";e.r(u);var t=e(7924);u.default=(0,t.d)({listKey:"CallRequest"})}},function(n){n.O(0,[7924,9774,2888,179],function(){return n(n.s=3388)}),_N_E=n.O()}]);
