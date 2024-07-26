@@ -6,6 +6,7 @@
     "dev": "keystone dev",
     "start": "keystone start",
     "build": "keystone build",
+    "vercel-build": "prisma generate && prisma migrate deploy && keystone build",
     "__postinstall": "keystone postinstall"
   },
   "dependencies": {
